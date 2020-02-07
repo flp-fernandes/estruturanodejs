@@ -1,0 +1,9 @@
+.env
+node_modules/
+logs
+package-lock.json
+.DS_Store
+.nyc_output
+coverage
+*.log
+.vscode
